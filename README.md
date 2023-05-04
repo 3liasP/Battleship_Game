@@ -3,4 +3,4 @@ A implementation of the classic game Battleship in Python. The game is singe-pla
 
 The game is played on a 10x10 grid, where each player places their ships and takes turns firing missiles to sink the other player's ships. The first player to sink all of the opponent's ships wins.
 
-The program is commented and written with Finnish terms. The rules and the game can be found at `saannot.txt` and `harjoitustyo_v3.0.py` respectively. The file `parhaatTulokset.txt` is used to keep track of top scores.
+The program is commented and written with Finnish terms. The rules and the game file itself can be found at `saannot.txt` and `harjoitustyo_v3.0.py` respectively. The file `parhaatTulokset.txt` is used to keep track of top scores.
